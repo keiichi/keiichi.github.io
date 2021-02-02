@@ -1,0 +1,8 @@
+theme: jekyll-theme-primer
+lang: ja
+title: 志賀 慶一 Keiichi Shiga
+description: keiichi.github.io
+#google_analytics: 
+
+plugins:
+  - jekyll-sitemap
