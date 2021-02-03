@@ -1,9 +1,9 @@
-<meta property="og:url" content="{{ page.url | relative_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:type" content="{% if page.url == '/' %}blog{% else %}article{% endif %}" />
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:description" content="{{ page.description }}" />{
 <meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:image" content="{{ "/ogp.png" | relative_url }}" />
+<meta property="og:image" content="{{ "/ogp.png" | absolute_url }}" />
 <meta name="twitter:card" content="summary_large_image" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
