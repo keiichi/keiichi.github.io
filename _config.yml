@@ -6,7 +6,7 @@ url: https://keiichi.github.io
 baseurl: ''
 
 sidebar_home_link: true
-# sidebar_blog_link: 
+sidebar_blog_link: https://keiichi-shiga.ovh/
 
 sidebar:
   title: '志賀 慶一<br>Keiichi Shiga'
