@@ -1,8 +1,23 @@
-theme: jekyll-theme-primer
+remote_theme: fongandrew/hydeout
 lang: ja
-title: 志賀 慶一 Keiichi Shiga
-description: keiichi.github.io
-#google_analytics: 
+title: '志賀 慶一 Keiichi Shiga GitHub Pages'
+description: '志賀 慶一 Keiichi Shiga GitHub Pages'
+url: https://keiichi.github.io
+baseurl: ''
+
+sidebar_home_link: true
+# sidebar_blog_link: 
+
+sidebar:
+  title: '志賀 慶一<br>Keiichi Shiga'
+  description: 'GitHub Pages'
+
+author:
+  name: ' 志賀 慶一 Keiichi Shiga'
+  url: https://facebook.com/keiichishiga
+
+markdown:  kramdown
+highlighter: rouge
 
 plugins:
   - jekyll-sitemap
