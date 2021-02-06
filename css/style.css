@@ -3,6 +3,16 @@
   line-height: 1;
   margin-bottom: 1rem;
 }
-#sidebar nav>* {
-    line-height: 1.5;
+
+#sidebar nav>*
+{
+  line-height: 1.5;
 }
+
+hr
+{
+  margin: 0;
+  border-top: 1px solid #0a0fb5;
+  border-bottom: 1px solid #0a0fb5;
+}
+
