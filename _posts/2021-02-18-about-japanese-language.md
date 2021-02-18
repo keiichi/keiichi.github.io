@@ -75,8 +75,8 @@ Balloon are also for people to ride: <i class="fab fa-fly"></i> It is a **気球
 
 It's interesting to divide the 風船 by kanji:
 
-- 風(fū or kaze)＝breeze (or wind, But the wind will not be strong)
-- 船(sen or fune)＝ship
+- 風(fū or kaze)＝breeze 🍃 (or wind, But the wind will not be strong)
+- 船(sen or fune)＝ship 🚢
 
 Yeah. Japanese reading: 風船＝fūsen ("-":Increases pronunciation)
 
