@@ -1,16 +1,19 @@
 remote_theme: fongandrew/hydeout
 lang: ja
-title: '志賀 慶一 Keiichi Shiga GitHub Pages'
-description: '志賀 慶一 Keiichi Shiga GitHub Pages'
+title: '志賀 慶一 Keiichi Shiga'
+description: '志賀 慶一 Keiichi Shiga English Blog'
 url: https://keiichi.github.io
 baseurl: ''
+paginate: 5
+excerpt_separator: '<!--more-->'
 
 sidebar_home_link: true
-sidebar_blog_link: https://keiichi-shiga.ovh/
+#sidebar_blog_link: 
 
 sidebar:
-  title: '志賀 慶一<br>Keiichi Shiga'
-  description: 'GitHub Pages'
+  title: '志賀 慶一 <br>Keiichi Shiga'
+  description: 'English Blog'
+
 
 author:
   name: ' 志賀 慶一 Keiichi Shiga'
@@ -19,5 +22,13 @@ author:
 markdown:  kramdown
 highlighter: rouge
 
+permalink: "/:year/:month/:title/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /ogp.png
+
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
