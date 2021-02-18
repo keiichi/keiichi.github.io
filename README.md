@@ -1,5 +1,5 @@
 
-## 志賀 慶一 Keiichi Shiga GitHub Pages
+## 志賀 慶一 Keiichi Shiga English Blog (GitHub Pages)
 
 <https://keiichi.github.io/>
 
